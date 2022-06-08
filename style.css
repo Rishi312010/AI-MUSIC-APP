@@ -1,0 +1,38 @@
+#SPAN
+{
+    font-size: 10px;
+}
+
+body
+{
+ background-size: cover;
+}
+
+#GIF
+{
+    width: 250px;
+    height: 300px;
+}
+
+#Speed
+{
+ position: relative;
+ right: 500px;
+}
+
+#Volume
+{
+ position: relative;
+ Left: 500px;
+ bottom: 330px;
+}
+#Playz
+{
+    position: relative;
+    bottom: 650px;
+}
+
+canvas {
+    border:5px solid white;
+    border-radius: 20px;
+}
